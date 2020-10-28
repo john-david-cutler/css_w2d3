@@ -1,0 +1,32 @@
+html, body, h1, h2, h3, p, ol, ul, li, a {
+    padding:0;
+    border:0;
+    margin:0;
+}
+
+.header {
+    background-color:grey;
+    text-decoration: none;
+    color:white;
+    text-align: center;
+    vertical-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a {
+    text-decoration:none;
+    padding:0 5px 0 5px;
+    color:white
+}
+.my-blog-picture {
+    background: url(Dark_Side_of_the_Moon.png) center center no-repeat;
+    height:600px;
+    background-size:cover;
+    background-position:center;
+}
+.my-blog-text {
+    font-size: 30px;
+    color:white;
+    text-align: center;
+    padding-top: 50px;
+}
